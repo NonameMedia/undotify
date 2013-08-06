@@ -19,6 +19,6 @@ var json = {
   }
 };
 
-var iLikeToDring = undotify('drinks.nonalc.coffee', json);
+var iWouldLikeToDrink = undotify('drinks.nonalc.coffee', json);
 // Cappuccino
 ```
